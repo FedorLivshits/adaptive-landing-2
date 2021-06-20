@@ -2,9 +2,11 @@
     .reviews-slider .slick-list {
         margin: 0;
     }
+
     .reviews-slider .slick-slide {
         margin: 0;
     }
+
     .reviews-box {
         box-shadow: none;
     }
@@ -14,10 +16,12 @@
     .price__items {
         flex-wrap: wrap;
     }
+
     .price__item {
         max-width: 48%;
         margin-bottom: 50px;
     }
+
     .price-item__number {
         margin: 0 auto;
         left: 0;
@@ -29,6 +33,7 @@
     .reviews-slider {
         margin-top: 60px;
     }
+
     .reviews-box {
         max-width: 520px;
         margin: 0 auto;
@@ -39,9 +44,11 @@
     .top-info {
         max-width: 425px;
     }
+
     .footer-inner {
         flex-wrap: wrap;
     }
+
     .footer-col__logo {
         width: 100%;
         margin-bottom: 30px;
@@ -58,20 +65,21 @@
         width: 100%;
         text-align: center;
         padding-inline-start: 0px;
-        border-top: 1px solid #2f3f54;
         margin-block-start: 0em;
         margin-block-end: 0em;
         z-index: 5;
     }
+
     .menu__list li {
         margin-left: 0;
     }
+
     .menu__list a {
         display: block;
-        padding: 10px 0;
-        border-bottom: 1px solid #2f3f54;
+        padding: 20px;
         background-color: white;
     }
+
     .btn__menu {
         display: block;
     }
@@ -93,6 +101,7 @@
     .top-images__box img {
         width: 300px;
     }
+
     .top-images__circle {
         width: 160px;
         height: 160px;
@@ -106,22 +115,27 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+
     .top-info {
         max-width: 100%;
         margin-right: 0;
         margin-bottom: 75px;
     }
+
     .top, .reviews, .price {
         padding-top: 50px;
         padding-bottom: 80px;
     }
+
     .price__item {
         max-width: 100%;
     }
+
     .footer-form {
         width: 100%;
         margin-top: 30px;
     }
+
     .footer-inner {
         justify-content: flex-start;
     }
@@ -131,15 +145,18 @@
     .reviews-box {
         display: block;
     }
+
     .reviews-box__images {
         width: 100%;
         min-height: 200px;
     }
+
     .reviews-box__content {
         width: 100%;
         padding: 20px;
         min-height: 260px;
     }
+
     .reviews-slider .slick-slide {
         padding-bottom: 30px;
     }
@@ -150,24 +167,30 @@
         font-size: 40px;
         line-height: 42px;
     }
+
     .top-images__circle {
         top: -5px;
         right: 10px;
     }
+
     .title {
         font-size: 36px;
         line-height: 40px;
     }
+
     .price__descr {
         margin: 35px auto 50px;
     }
+
     .price__item {
         padding: 0 20px 60px;
     }
+
     .footer-menu {
         margin-bottom: 30px;
         width: 100%;
     }
+
     .footer-form {
         margin-top: 0;
     }
